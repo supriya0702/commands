@@ -1,8 +1,6 @@
 Supriyaaa
 capgemini
-<<<<<<< HEAD
 java, springboot
-=======
 4 years of experience
 10 LPA
->>>>>>> 5df4150a3e116ef8fd5ba44d1aca73842fff022c
+some changes
