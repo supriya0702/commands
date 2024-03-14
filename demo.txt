@@ -1,7 +1,4 @@
 Supriyaaa
 Bangalore
-<<<<<<< HEAD
 java
-=======
 10Lpa
->>>>>>> 3238876134efff8ed0d0ea0ed84db37634cf849d
