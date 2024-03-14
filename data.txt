@@ -1,4 +1,8 @@
 Supriyaaa
 4 years experience
 10 LPA
+<<<<<<< HEAD
 java
+=======
+Bangalore
+>>>>>>> c7dc406aedae5d90a704e8fa3bf6ea3c1f9f4313
